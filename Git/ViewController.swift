@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+var git = "try it out"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
